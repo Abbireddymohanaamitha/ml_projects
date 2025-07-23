@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ml-projects/ml_projects/mlruns/858790191833796436/bcc763d5b65049c9bc4098616c3ad007/artifacts
+end_time: 1753252122019
+entry_point_name: ''
+experiment_id: '858790191833796436'
+lifecycle_stage: active
+run_id: bcc763d5b65049c9bc4098616c3ad007
+run_name: dashing-lamb-95
+run_uuid: bcc763d5b65049c9bc4098616c3ad007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753252112646
+status: 3
+tags: []
+user_id: Abbir

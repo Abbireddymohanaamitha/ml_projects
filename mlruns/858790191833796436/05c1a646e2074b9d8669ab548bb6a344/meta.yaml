@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ml-projects/ml_projects/mlruns/858790191833796436/05c1a646e2074b9d8669ab548bb6a344/artifacts
+end_time: 1753252188498
+entry_point_name: ''
+experiment_id: '858790191833796436'
+lifecycle_stage: active
+run_id: 05c1a646e2074b9d8669ab548bb6a344
+run_name: bald-cod-656
+run_uuid: 05c1a646e2074b9d8669ab548bb6a344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753252184686
+status: 3
+tags: []
+user_id: Abbir
